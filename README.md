@@ -10,7 +10,7 @@ IN PROGRESS
 
 ## Project Overview
 
-The end goal of this project is to produce a large scale scoreboard using **only mechanical displays** that will update with states and gamestates in real time. The displays will be similar in nature to MLB.com's 'Gameday' feature, showing live statistics regarding many facets of the game, such as a dynamic strikezone, batting averages, pitch counts, and a plethora of other key statistics that cannot be gathered at all points of a television broadcast. The user would be able to iterate through each live game at a time, updating the scoreboard in turn. 
+The end goal of this project is to produce a large scale MLB scoreboard using **only mechanical displays** that will update with states and gamestates in real time. The displays will be similar in nature to MLB.com's 'Gameday' feature, showing live statistics regarding many facets of the game, such as a dynamic strikezone, batting averages, pitch counts, and a plethora of other key statistics that cannot be gathered at all points of a television broadcast. The user would be able to iterate through each live game at a time, updating the scoreboard in turn. 
 
 ## Educational Value Added
 
